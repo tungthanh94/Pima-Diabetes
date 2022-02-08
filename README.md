@@ -1,0 +1,1 @@
+Build some ML models to predict Pima people affected by type 2 diabetes using Sklearn. Use SimpleImputer and KNNImputer to impute missing values, use StandardScaler to standardize data, then build these models: KNN, Decision Tree, Logistic Regression, SVM, Soft voting and Hard voting. Use GridSearchCV to find best parameters.
